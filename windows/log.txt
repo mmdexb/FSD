@@ -1,0 +1,34 @@
+09-06-122 12:07:53 : Booting server
+09-06-122 12:07:53 FSD: Reading certificates from 'cert.txt'
+09-06-122 12:07:53 FSD: Booting port 6809 (client interface)
+09-06-122 12:07:53 FSD: Booting port 3011 (server interface)
+09-06-122 12:07:53 FSD: Booting port 3010 (system management interface)
+09-06-122 12:07:53 FSD: No 'allowfrom' found, allowing everybody on the server port
+09-06-122 12:07:53 FSD: We are up
+09-06-122 12:07:54 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+09-06-122 12:07:54 FSD: Reading certificates from 'cert.txt'
+09-06-122 12:08:03 : Booting server
+09-06-122 12:08:03 FSD: Reading certificates from 'cert.txt'
+09-06-122 12:08:03 FSD: Booting port 6809 (client interface)
+09-06-122 12:08:03 FSD: Booting port 3011 (server interface)
+09-06-122 12:08:03 FSD: Booting port 3010 (system management interface)
+09-06-122 12:08:03 FSD: No 'allowfrom' found, allowing everybody on the server port
+09-06-122 12:08:03 FSD: We are up
+09-06-122 12:08:04 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+09-06-122 12:08:04 FSD: Reading certificates from 'cert.txt'
+09-06-122 12:11:35 : Booting server
+09-06-122 12:11:35 FSD: Reading certificates from 'cert.txt'
+09-06-122 12:11:35 FSD: Booting port 6809 (client interface)
+09-06-122 12:11:35 FSD: Booting port 3011 (server interface)
+09-06-122 12:11:35 FSD: Booting port 3010 (system management interface)
+09-06-122 12:11:35 FSD: No 'allowfrom' found, allowing everybody on the server port
+09-06-122 12:11:35 FSD: We are up
+09-06-122 12:11:36 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+09-06-122 12:11:36 FSD: Reading certificates from 'cert.txt'
+09-06-122 12:12:39 FSD: Connection accepted from 127.0.0.1 on client interface
+09-06-122 12:13:24 FSD: client from 127.0.0.1 removed from client interface:closed on command
+09-06-122 12:13:25 FSD: Connection accepted from 127.0.0.1 on client interface
+09-06-122 12:17:07 FSD: client from 127.0.0.1 removed from client interface:closed on command
+09-06-122 13:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+09-06-122 14:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+09-06-122 15:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
